@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**KeyToLove/KeyToLove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=console.log(%22Hello+World%22);think+twice%2Ccode+once">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+### Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=KeyToLove&theme=xcode" />
+</div>
+
+### Commit Snake
+
+<div align="center">
+    <img src="./contribution-snake/github-contribution-grid-snake.svg" />
+</div>
