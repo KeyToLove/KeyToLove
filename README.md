@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=console.log(%22Hello+World%22);think+twice%2Ccode+once">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=console.log(%22Hello+World%22)">
   </a>
 </h1>
 
