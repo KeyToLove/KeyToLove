@@ -6,15 +6,13 @@
   </a>
 </h1>
 
+<div align="center">
+    <img src="./banner.webp" />
+</div>
+
 ### Blog Space
 
 欢迎访问我的博客空间 [KeyToLove Blog Space](https://keytolove.github.io/)
-
-### Contribution Graph
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=KeyToLove&theme=xcode" />
-</div>
 
 ### Commit Snake
 
