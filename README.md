@@ -11,11 +11,4 @@
 </div>
 
 ### Blog Space
-
-欢迎访问我的博客空间 [KeyToLove Blog Space](https://keytolove.github.io/)
-
-### Commit Snake
-
-<div align="center">
-    <img src="./contribution-snake/github-contribution-grid-snake.svg" />
-</div>
+[KeyToLove Blog Space](https://keytolove.github.io/)
